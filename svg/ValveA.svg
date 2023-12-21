@@ -1,20 +1,19 @@
-<svg width="57" height="102" viewBox="0 0 57 102" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_5_384)">
-<path d="M27 4L27 44" stroke="#BEBEBE" stroke-width="7" stroke-linecap="square"/>
-<rect x="4.5" y="23.5" width="34" height="44" fill="#D9D9D9" stroke="black"/>
-<circle cx="28.5" cy="69.5" r="24" fill="#D9D9D9" stroke="black"/>
-<circle cx="28.5" cy="69.5" r="19" fill="#D9D9D9" stroke="black"/>
-</g>
-<defs>
-<filter id="filter0_d_5_384" x="0" y="0.5" width="57" height="101.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="4"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_5_384"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_5_384" result="shape"/>
-</filter>
-</defs>
+<svg width="99" height="194" viewBox="0 0 99 194" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="51.5" cy="130.5" r="40.5" stroke="#2D1964" stroke-width="14"/>
+<circle cx="51.5" cy="130.5" r="23" stroke="#2D1964" stroke-width="11"/>
+<circle cx="29" cy="130" r="4" fill="#9492FF"/>
+<circle cx="74" cy="130" r="4" fill="#9492FF"/>
+<circle cx="51" cy="154" r="4" fill="#9492FF"/>
+<circle cx="35" cy="146" r="4" fill="#9492FF"/>
+<circle cx="35" cy="115" r="4" fill="#9492FF"/>
+<circle cx="68" cy="115" r="4" fill="#9492FF"/>
+<circle cx="68" cy="146" r="4" fill="#9492FF"/>
+<circle cx="51" cy="108" r="4" fill="#9492FF"/>
+<rect x="74" y="183" width="25" height="10" rx="5" fill="#2D1964"/>
+<rect x="25" y="51" width="55" height="10" rx="5" fill="#2D1964"/>
+<rect x="39" y="56" width="56" height="32" transform="rotate(-90 39 56)" fill="#2D1964"/>
+<rect x="65.9103" y="51" width="39" height="32.8556" rx="16.4278" transform="rotate(76.2221 65.9103 51)" fill="#2D1964"/>
+<rect y="183" width="25" height="10" rx="5" fill="#2D1964"/>
+<rect x="16" y="191.762" width="29.705" height="10" rx="5" transform="rotate(-82.0799 16 191.762)" fill="#2D1964"/>
+<rect x="73.0517" y="192.906" width="29.705" height="10" rx="5" transform="rotate(-94.0174 73.0517 192.906)" fill="#2D1964"/>
 </svg>

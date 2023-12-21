@@ -190,7 +190,7 @@ body {
         padding: 1px 10px;
         border-radius: 5px;
         backdrop-filter: blur(3px);
-        top: -2%;
+        top: -3%;
         margin: auto;
 
         &_window {
@@ -264,24 +264,25 @@ body {
 
 .valve {
     position: absolute;
-    top: 30%;
-    left: 40%;
+    top: 6.5vh;
+    left: 17vw;
     height: 60px;
     width: 60px;
     background-image: url('./../svg/valveD.svg');
-    opacity: .9;
+    opacity: 0.9;
     background-repeat: no-repeat;
     background-position: center center;
+    background-size: contain;
     z-index: 5;
 
-    &_two {
+    &_two {       
         left: 55%;
         background-image: url('./../svg/valve.svg');
     }
 
     &_three {
-        top: 65%;
-        left: 20vw;
+        top: 29vh;
+        left: 27vw;
         background-image: url('./../svg/valve.svg');
     }
 
