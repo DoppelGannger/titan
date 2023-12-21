@@ -264,7 +264,7 @@ body {
 
 .valve {
     position: absolute;
-    top: 6.5vh;
+    top: 28%;
     left: 17vw;
     height: 60px;
     width: 60px;
@@ -275,7 +275,8 @@ body {
     background-size: contain;
     z-index: 5;
 
-    &_two {       
+    &_two {
+
         left: 55%;
         background-image: url('./../svg/valve.svg');
     }
